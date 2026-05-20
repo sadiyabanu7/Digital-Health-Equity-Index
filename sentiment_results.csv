@@ -1,0 +1,41 @@
+income_group,review,compound,positive,negative,neutral
+High income,"Great app, works perfectly on my phone",0.8519,0.624,0.0,0.376
+High income,"Very intuitive interface, love the health tracking",0.6666,0.427,0.0,0.573
+High income,"Excellent features, syncs well with my devices",0.7003,0.537,0.0,0.463
+High income,"Fast and reliable, great for monitoring my health",0.6249,0.369,0.0,0.631
+High income,"Beautiful design, easy to navigate",0.7783,0.694,0.0,0.306
+High income,Works great on fast internet connection,0.6249,0.451,0.0,0.549
+High income,Very helpful for tracking medications,0.4754,0.436,0.0,0.564
+High income,"Highly recommend, comprehensive health data",0.6214,0.628,0.0,0.372
+High income,"Smooth experience, no crashes",-0.296,0.0,0.423,0.577
+High income,Perfect app for staying healthy,0.7506,0.681,0.0,0.319
+Upper middle income,Good app but sometimes slow to load,0.2382,0.245,0.0,0.755
+Upper middle income,Useful features but needs better translation,0.7003,0.592,0.0,0.408
+Upper middle income,"Works okay, crashes sometimes on older phones",0.2263,0.241,0.0,0.759
+Upper middle income,Good concept but interface is confusing,-0.1027,0.235,0.283,0.482
+Upper middle income,Helpful but takes too much storage space,0.2263,0.241,0.0,0.759
+Upper middle income,Language support needs improvement,0.6908,0.74,0.0,0.26
+Upper middle income,"Decent app, would be better with offline mode",0.34,0.279,0.144,0.577
+Upper middle income,Sometimes doesn't work on slow connections,0.0,0.0,0.0,1.0
+Upper middle income,Good but expensive data usage,0.2382,0.328,0.0,0.672
+Upper middle income,Useful but not always available in my country,0.2382,0.218,0.0,0.782
+Lower middle income,App is too heavy for my phone storage,0.0,0.0,0.0,1.0
+Lower middle income,Doesn't work without strong internet connection,0.3093,0.311,0.0,0.689
+Lower middle income,"Need offline mode urgently, internet is expensive",-0.128,0.0,0.2,0.8
+Lower middle income,"Too complicated, needs simpler interface",0.0,0.0,0.0,1.0
+Lower middle income,Crashes frequently on my device,0.0,0.0,0.0,1.0
+Lower middle income,Not available in my local language,0.0,0.0,0.0,1.0
+Lower middle income,"Uses too much data, cannot afford to use daily",0.0,0.0,0.0,1.0
+Lower middle income,Good idea but not accessible for us,0.2382,0.245,0.0,0.755
+Lower middle income,Would be helpful if it worked on 2G network,0.4215,0.259,0.0,0.741
+Lower middle income,Hard to use without technical knowledge,-0.1027,0.0,0.219,0.781
+Low income,"Cannot download, phone storage always full",0.0,0.0,0.0,1.0
+Low income,Too expensive to use with mobile data,0.0,0.0,0.0,1.0
+Low income,Need version that works without internet,0.0,0.0,0.0,1.0
+Low income,App is not in our language,0.0,0.0,0.0,1.0
+Low income,Difficult to understand the interface,-0.3612,0.0,0.385,0.615
+Low income,Does not work on basic smartphones,0.0,0.0,0.0,1.0
+Low income,Data costs too high to use regularly,0.0,0.0,0.0,1.0
+Low income,Would help if we could use offline,0.296,0.293,0.163,0.543
+Low income,Technical support not available in our region,0.4019,0.31,0.0,0.69
+Low income,Needs to work on 2G and basic phones,0.0,0.0,0.0,1.0
